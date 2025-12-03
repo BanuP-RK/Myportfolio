@@ -194,7 +194,7 @@ const Herosection = () => {
 
              <div className='w-full h-fit  flex items-start justify-start gap-10 p-10 mt-0 max-[890px]:flex-col max-[890px]:space-y-2'>
                 <div className=' w-1/2  mb-4 max-[890px]:w-full max-[890px]:text-center'>
-                <img src='Myportfolio/login.png' alt='image-loading' className='w-full h-full'></img>
+                <img src='/Myportfolio/login.png' alt='image-loading' className='w-full h-full'></img>
                 </div>
                 <div className=' w-1/2  mb-4 p-18 max-[890px]:w-full '>
                 <span className='text-3xl tracking-wide  text-block font-bold p-4' >Authentication Page</span>
